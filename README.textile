@@ -1,0 +1,18 @@
+h1. Browser Message
+
+By Cameron Gilroy
+
+h3. Usage
+
+Example: [[BrowserMessage]]
+Example: [[BrowserMessage? &version=`7` &browser=`MSIE` &platform=`Windows` &message=`lease update your browser to Internet Explorer 10!`]]
+
+h2. Configuration
+
+
+h3. Defaults
+
+&version - 6
+&browser - MSIE
+&platform - Windows
+&message - Please update your browser!
